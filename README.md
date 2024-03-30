@@ -18,6 +18,7 @@
 
 
 # 💫 About Me:
+👋 Hi I am james
 🌱 I’m currently learning Machine Learning<br><br><br>
 💬 Ask me about Data Analysis,Data Visualization,Machine Learning<br><br><br>
 📫 How to reach me krss132005@gmail.com<br><br><br>
